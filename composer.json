@@ -1,8 +1,8 @@
 {
-    "name": "hairmenu/laravel-redis-mock",
+    "name": "spiria-digital/laravel-redis-mock",
     "description": "This Laravel package is a fork from a package that provides a Redis mock for your tests",
     "keywords": ["localization", "language", "laravel", "php"],
-    "homepage": "https://github.com/hairmenu/laravel-redis-mock",
+    "homepage": "https://github.com/Spiria-Digital/laravel-redis-mock",
     "license": "MIT",
     "authors": [
         {
